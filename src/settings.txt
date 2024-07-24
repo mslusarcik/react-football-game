@@ -1,0 +1,4 @@
+  const gravity = 0.8; // Síla gravitace
+  const bounceFactor = 0.5; // Koeficient odrazu
+  const maxClickForce = 70; // Maximální síla kliknutí
+  const minClickForce = maxClickForce * 0.2; // Minimální síla kliknutí (20% z maxClickForce)
